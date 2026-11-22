@@ -1,2 +1,6 @@
 "First Line" 
+<<<<<<< HEAD
 "Forh Line" 
+=======
+"Second Line" 
+>>>>>>> parent of e054423 (Revert "Commit 2")
